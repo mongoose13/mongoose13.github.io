@@ -6,7 +6,7 @@ const RESOURCES = {
   "version.json": "36ab8f167a5a9602083696949c2cb823",
 "index.html": "940d7e96b9372d72f0bc9af06a21848f",
 "/": "940d7e96b9372d72f0bc9af06a21848f",
-"main.dart.js": "6af83a9207a3d0874c77136c61d28e29",
+"main.dart.js": "3c5eb8967b1219f3ae7ceff082699dab",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
